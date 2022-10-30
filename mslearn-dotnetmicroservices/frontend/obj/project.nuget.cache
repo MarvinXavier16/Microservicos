@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBAw+B0ILVF2wH47cS/SFWkVVsMOISf1D080Le9/1g4n8SP31paGEah+r9SYCFisPzaO2SiHALSv702Uja2wiA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\mvsxm\\OneDrive\\Desktop\\Dev\\Microservicos\\mslearn-dotnetmicroservices\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvsxm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
